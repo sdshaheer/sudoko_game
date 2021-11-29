@@ -82,7 +82,6 @@ class Framework extends JFrame implements ActionListener{
         solve(a);
     }
     public void actionPerformed(ActionEvent e){
-        System.out.println("hi");
         if(e.getSource()==next){
             out="";
             output.setText(null);
