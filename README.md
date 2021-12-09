@@ -1,2 +1,2 @@
 # sudoko_game
-This is a sudoko game with GUI programming 
+This sudoko game is implemented with GUI programming with help of java language
